@@ -3,5 +3,6 @@
 I'm a 19 year old 'programmer' from Indonesia! In my 2nd year of uni and I've finally stopped hating writing code :+1:<br />
 ### Not so fun facts
 - CS Major undergrad at BINUS University
+- I do graphic design as a hobby
 - Still have no idea what I'm doing
 - But I have a readme so that makes me cool :sunglasses:(right?)
