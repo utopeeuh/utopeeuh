@@ -1,16 +1,16 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/75376567/111775590-89748280-88e3-11eb-899a-ddda13c05059.png)
 
-<!--
-**utopeeuh/utopeeuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19 year old 'programmer' from Indonesia! In my 2nd year of uni and I've finally stopped hating writing code :+1:<br />
+### Languages learned/learning
+- HTML/CSS (not a language, but where am i supposed to put it)
+- Javascript
+- Kotlin
+- Python
+- C++
+- C#
+- .NET
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FAQ
+- CS Major undergrad at BINUS University
+- Still have no idea what I'm doing
+- But I have a readme so that makes me cool :sunglasses:(right?)
